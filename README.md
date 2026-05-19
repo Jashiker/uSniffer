@@ -12,11 +12,6 @@ A cross-platform network packet sniffer with a graphical user interface, written
 - **Promiscuous Mode** — Optional promiscuous mode for capturing all network traffic
 - **Raw Data Viewer** — Hex and ASCII view of raw packet data
 
-## Screenshots
-
-![Interface Selection](docs/interface_selection.png)
-![Packet Capture](docs/packet_capture.png)
-
 ## Architecture
 
 ```
